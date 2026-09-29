@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reel Counter</string>
+    <string name="service_desc">Instagram me reels scroll hone par top me count dikhata hai. Koi data bahar nahi bhejta.</string>
+</resources>
